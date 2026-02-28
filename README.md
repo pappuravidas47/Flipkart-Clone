@@ -1,4 +1,4 @@
-🛒 <p><b>Flipkart Clone</p>
+🛒 Flipkart Clone
 
 A responsive web-based clone of Flipkart's user interface, built with HTML, CSS, and JavaScript.
 
