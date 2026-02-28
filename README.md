@@ -34,5 +34,5 @@ A responsive web-based clone of Flipkart's user interface, built with HTML, CSS,
 
 🙋‍♂️ Author
 
-Pappu Kumar Ravidas
+Pappu Kumar Ravidas <br>
 B.Tech CSE (2nd Year)
